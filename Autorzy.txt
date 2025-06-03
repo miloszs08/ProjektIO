@@ -1,4 +1,6 @@
-Członek zespołu 1: Słowikowski Miłosz
-  Zadania: Tworzenie diagramów UML
-Członek zespołu 2: Węcek Igor
-  Zadania: Pisanie kodu, testowanie programu
+Kretowicz Eryk
+	Zadania: Tworzenie diagramów UML
+Słowikowski Miłosz
+	Zadania: Tworzenie diagramów UML, planowanie projektu
+Węcek Igor
+	Zadania: Pisanie kodu, testowanie programu
